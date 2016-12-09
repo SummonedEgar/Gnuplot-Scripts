@@ -1,0 +1,2 @@
+Coefficiente Glucosio:4.87530257992999
+Coefficiente Fruttosio:-6.30298935990544

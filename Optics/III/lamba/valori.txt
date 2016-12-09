@@ -1,0 +1,2 @@
+Lambda laser massimi sx=639.746498860126nm
+Lambda laser massimi dx=676.413552746182nm
