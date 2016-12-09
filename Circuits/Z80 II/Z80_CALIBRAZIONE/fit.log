@@ -1,0 +1,828 @@
+
+
+*******************************************************************************
+Wed Jan 13 13:23:40 2016
+
+
+FIT:    data read from 'retta calibr' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 382077            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 106.064
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1.50037
+rel. change during last iteration : -8.3442e-06
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.316267
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.100025
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0199432       +/- 0.0009798    (4.913%)
+b               = 4.61038          +/- 0.147        (3.188%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.853  1.000 
+
+
+*******************************************************************************
+Wed Jan 13 13:30:59 2016
+
+
+FIT:    data read from 'retta calibr' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 382077            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 106.064
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 5 iterations the fit converged.
+final sum of squares of residuals : 1.50037
+rel. change during last iteration : -8.3442e-06
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.316267
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.100025
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0199432       +/- 0.0009798    (4.913%)
+b               = 4.61038          +/- 0.147        (3.188%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.853  1.000 
+
+
+*******************************************************************************
+Wed Jan 13 13:32:14 2016
+
+
+FIT:    data read from 'retta calibr' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 380081            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 106.064
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 9.99745e-06
+rel. change during last iteration : -9.14808e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000816392
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.66496e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0196268       +/- 2.529e-06    (0.01289%)
+b               = 5.01745          +/- 0.0003794    (0.007561%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.853  1.000 
+
+
+*******************************************************************************
+Wed Jan 13 13:33:11 2016
+
+
+FIT:    data read from 'retta calibr' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 380081            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 106.064
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 9.99745e-06
+rel. change during last iteration : -9.14808e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000816392
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.66496e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0196268       +/- 2.529e-06    (0.01289%)
+b               = 5.01745          +/- 0.0003794    (0.007561%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.853  1.000 
+
+
+*******************************************************************************
+Wed Jan 13 13:46:57 2016
+
+
+FIT:    data read from 'retta calibr' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 380081            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 106.064
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 9.99745e-06
+rel. change during last iteration : -9.14808e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000816392
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.66496e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0196268       +/- 2.529e-06    (0.01289%)
+b               = 5.01745          +/- 0.0003794    (0.007561%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.853  1.000 
+
+
+*******************************************************************************
+Wed Jan 13 13:51:43 2016
+
+
+FIT:    data read from 'retta calibr' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 380081            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 106.064
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 9.99745e-06
+rel. change during last iteration : -9.14808e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000816392
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.66496e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0196268       +/- 2.529e-06    (0.01289%)
+b               = 5.01745          +/- 0.0003794    (0.007561%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.853  1.000 
+
+
+*******************************************************************************
+Wed Jan 13 13:52:05 2016
+
+
+FIT:    data read from 'retta calibr' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 380081            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 106.064
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 9.99745e-06
+rel. change during last iteration : -9.14808e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000816392
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.66496e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0196268       +/- 2.529e-06    (0.01289%)
+b               = 5.01745          +/- 0.0003794    (0.007561%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.853  1.000 
+
+
+*******************************************************************************
+Wed Jan 13 13:52:50 2016
+
+
+FIT:    data read from 'retta calibr' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 380081            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 106.064
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 9.99745e-06
+rel. change during last iteration : -9.14808e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000816392
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.66496e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0196268       +/- 2.529e-06    (0.01289%)
+b               = 5.01745          +/- 0.0003794    (0.007561%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.853  1.000 
+
+
+*******************************************************************************
+Wed Jan 13 13:53:14 2016
+
+
+FIT:    data read from 'retta calibr' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 380081            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 106.064
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 9.99745e-06
+rel. change during last iteration : -9.14808e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000816392
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.66496e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0196268       +/- 2.529e-06    (0.01289%)
+b               = 5.01745          +/- 0.0003794    (0.007561%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.853  1.000 
+
+
+*******************************************************************************
+Wed Jan 13 13:53:36 2016
+
+
+FIT:    data read from 'retta calibr' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 380081            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 106.064
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 9.99745e-06
+rel. change during last iteration : -9.14808e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000816392
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.66496e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0196268       +/- 2.529e-06    (0.01289%)
+b               = 5.01745          +/- 0.0003794    (0.007561%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.853  1.000 
+
+
+*******************************************************************************
+Wed Jan 13 13:53:45 2016
+
+
+FIT:    data read from 'retta calibr' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 380081            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 106.064
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 9.99745e-06
+rel. change during last iteration : -9.14808e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000816392
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.66496e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0196268       +/- 2.529e-06    (0.01289%)
+b               = 5.01745          +/- 0.0003794    (0.007561%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.853  1.000 
+
+
+*******************************************************************************
+Wed Jan 13 13:53:54 2016
+
+
+FIT:    data read from 'retta calibr' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 380081            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 106.064
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 9.99745e-06
+rel. change during last iteration : -9.14808e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000816392
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.66496e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0196268       +/- 2.529e-06    (0.01289%)
+b               = 5.01745          +/- 0.0003794    (0.007561%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.853  1.000 
+
+
+*******************************************************************************
+Wed Jan 13 13:54:51 2016
+
+
+FIT:    data read from 'retta calibr' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 380081            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 106.064
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 9.99745e-06
+rel. change during last iteration : -9.14808e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000816392
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.66496e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0196268       +/- 2.529e-06    (0.01289%)
+b               = 5.01745          +/- 0.0003794    (0.007561%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.853  1.000 
+
+
+*******************************************************************************
+Wed Jan 13 13:55:05 2016
+
+
+FIT:    data read from 'retta calibr' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 380081            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 106.064
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 9.99745e-06
+rel. change during last iteration : -9.14808e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000816392
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.66496e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0196268       +/- 2.529e-06    (0.01289%)
+b               = 5.01745          +/- 0.0003794    (0.007561%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.853  1.000 
+
+
+*******************************************************************************
+Wed Jan 13 13:56:24 2016
+
+
+FIT:    data read from 'retta calibr' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 380081            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 106.064
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 9.99745e-06
+rel. change during last iteration : -9.14808e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000816392
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.66496e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0196268       +/- 2.529e-06    (0.01289%)
+b               = 5.01745          +/- 0.0003794    (0.007561%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.853  1.000 
+
+
+*******************************************************************************
+Wed Jan 13 13:56:59 2016
+
+
+FIT:    data read from 'retta calibr' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 380081            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 106.064
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 9.99745e-06
+rel. change during last iteration : -9.14808e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000816392
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.66496e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0196268       +/- 2.529e-06    (0.01289%)
+b               = 5.01745          +/- 0.0003794    (0.007561%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.853  1.000 
+
+
+*******************************************************************************
+Wed Jan 13 13:57:28 2016
+
+
+FIT:    data read from 'retta calibr' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 380081            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 106.064
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 9.99745e-06
+rel. change during last iteration : -9.14808e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000816392
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.66496e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0196268       +/- 2.529e-06    (0.01289%)
+b               = 5.01745          +/- 0.0003794    (0.007561%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.853  1.000 
+
+
+*******************************************************************************
+Wed Jan 13 14:36:45 2016
+
+
+FIT:    data read from 'retta calibr' u 1:2
+        format = x:z
+        #datapoints = 17
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+fitted parameters initialized with current variable values
+
+
+
+ Iteration 0
+ WSSR        : 380081            delta(WSSR)/WSSR   : 0
+ delta(WSSR) : 0                 limit for stopping : 1e-05
+ lambda	  : 106.064
+
+initial set of free parameter values
+
+a               = 1
+b               = 1
+
+After 6 iterations the fit converged.
+final sum of squares of residuals : 9.99745e-06
+rel. change during last iteration : -9.14808e-10
+
+degrees of freedom    (FIT_NDF)                        : 15
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.000816392
+variance of residuals (reduced chisquare) = WSSR/ndf   : 6.66496e-07
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+
+a               = -0.0196268       +/- 2.529e-06    (0.01289%)
+b               = 5.01745          +/- 0.0003794    (0.007561%)
+
+
+correlation matrix of the fit parameters:
+
+               a      b      
+a               1.000 
+b              -0.853  1.000 
